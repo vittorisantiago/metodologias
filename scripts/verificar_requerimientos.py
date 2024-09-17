@@ -1,5 +1,6 @@
 import json
 
+
 def verificar_requisitos():
     with open('requerimientos.json') as f:
         requisitos = json.load(f)
