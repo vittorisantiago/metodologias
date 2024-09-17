@@ -11,4 +11,3 @@ def verificar_requisitos():
 
 if __name__ == "__main__":
     exit(verificar_requisitos())
-
