@@ -8,5 +8,7 @@ def verificar_requisitos():
         return 0
     return 1
 
+
 if __name__ == "__main__":
     exit(verificar_requisitos())
+
