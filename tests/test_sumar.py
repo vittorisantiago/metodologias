@@ -1,4 +1,4 @@
-from src.sumar import sumar
+from sumar import sumar
 
 
 def test_sumar():
